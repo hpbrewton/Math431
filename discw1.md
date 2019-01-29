@@ -13,6 +13,7 @@ Cottonwood makes very good lumber and thieves are afoot;
 therefore you think it best that there not be some other tree closer to the center of your orchard than any of your cottonwood. 
 You must put trees in all of the slots. 
 Given this how many ways are there to arrange your trees?
+(note: two ways are the same if they are rotationally symmetric)
 
 ## problem 2
 Given a finite set $\mathcal{S}$ of size $n$,
