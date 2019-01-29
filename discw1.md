@@ -10,7 +10,7 @@ $15$ cottonwood,
 $15$ Douglas fir, and
 $40$ eastern larch.
 Cottonwood makes very good lumber and thieves are afoot;
-therefore you think it best that there not be a some other tree closer to the center of your orchard than any of your cottonwood. 
+therefore you think it best that there not be some other tree closer to the center of your orchard than any of your cottonwood. 
 You must put trees in all of the slots. 
 Given this how many ways are there to arrange your trees?
 
